@@ -9,6 +9,9 @@ github
 https://tinyurl.com/r7n3jgv
 https://github.com/rogerjdeangelis/utl-remove-unwanted-control-characters-from-an-input-csv-file
 
+see for a more comprehensive and well documented solution
+https://github.com/macropeople/macrocore/blob/master/base/mp_cleancsv.sas
+
 related repos
 https://github.com/rogerjdeangelis?tab=repositories&q=utlrulr+hex&type=&language=
 
